@@ -6,7 +6,9 @@
   }
   
   body {
-    font-family: Arial, sans-serif;
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 400;
+    font-style: normal;
   }
   
   /* Navbar */
@@ -44,7 +46,7 @@
   
   .navside {
     display: none;
-    position: absolute;
+    position: relative;
     background-color: #222;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     z-index: 1;
